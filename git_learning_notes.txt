@@ -1,0 +1,19 @@
+get the version of git :
+git --version   
+
+paramétrage de l'utilisateur :
+git config --global user.name "Maxime Song"
+git config --global user.email "songmaxime@gmail.com
+
+initialisation de git dans le projet :
+git init
+
+connaître l'état du projet git :
+git status
+
+faire une photo du projet :
+git add (file_name)
+git commit -m "Reason of the commit"
+
+obtenir les commit du projet :
+git log
