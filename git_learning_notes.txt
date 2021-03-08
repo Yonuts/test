@@ -34,3 +34,7 @@ git branch -d (to remove the old branch)
 
 relier un projet github et un projet local :
 git remote add (repository_name) (url)
+git remote 
+
+local vers distant :
+git push (repository_name) (local_branch_name)
