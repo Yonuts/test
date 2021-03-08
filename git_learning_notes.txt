@@ -26,3 +26,8 @@ git branch
 
 changer de branches :
 git checkout
+
+rapatrier une branche :
+retourner à la branche en question
+git merge (branch_name)
+git branch -d (to remove the old branch)
