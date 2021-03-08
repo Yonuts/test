@@ -31,3 +31,6 @@ rapatrier une branche :
 retourner à la branche en question
 git merge (branch_name)
 git branch -d (to remove the old branch)
+
+relier un projet github et un projet local :
+git remote add (repository_name) (url)
