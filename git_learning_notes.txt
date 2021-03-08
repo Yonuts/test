@@ -17,3 +17,12 @@ git commit -m "Reason of the commit"
 
 obtenir les commit du projet :
 git log
+
+création d'une branche :
+git branch (branch_name)
+
+lister les branches :
+git branch
+
+changer de branches :
+git checkout
